@@ -1,5 +1,6 @@
 class CfgPatches {
-    class {CRNY_WokeSkins} {
+    class CRNY_WokeSkins {
+		name = "Corny's woke skins"
         units[] = {};
         weapons[] = {};
         requiredVersion = 0.1;

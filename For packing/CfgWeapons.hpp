@@ -44,7 +44,7 @@ class CfgWeapons
 		displayName = "Sketches";
 		picture = "\A3\characters_f\Data\UI\icon_V_plate_carrier_2_blk_CA.paa";
 		model = "\A3\Characters_F\BLUFOR\equip_b_vest02";
-		hiddenSelectionsTextures[] = {"cornys_woke_skins\addons\cornys_woke_skins\data\vests_blk_co.paa"};
+		hiddenSelectionsTextures[] = {"\addons\cornys_woke_skins\data\vests_blk_co.paa"};
 		class ItemInfo : ItemInfo
 		{
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
